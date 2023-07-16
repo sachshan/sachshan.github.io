@@ -1,0 +1,72 @@
+:root{
+    background-color: 	lemonchiffon;
+    
+}
+
+.main > *
+{
+    color: darkblue !important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
+
+.line
+{
+    background-color: darkblue;
+    margin-right: 5%;
+}
+
+
+.header{
+    display: flex;
+    justify-items: auto;
+    gap: 10px;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+.hName{
+    
+    margin-right: auto;
+    margin-left: 10px;
+    font-size: 2em;
+    
+    
+}
+
+.hLink
+{
+    font-size: 1.5em;
+    margin-right: 5%;
+}
+
+
+
+
+.intro
+{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    margin-top: 3%;
+    
+}
+
+.iPic
+{
+    border-radius: 50%;
+}
+
+.iText
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.iHead{
+    font-size: 3em;
+    font-weight: 900;
+}
