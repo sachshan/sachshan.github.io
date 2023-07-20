@@ -4,7 +4,7 @@
 :root{
     background-color: 	rgb(247, 243, 212);
    
-    font-size: calc(16px + 0.2vw);
+    font-size: calc(14px + 0.2vw);
     
     
 }
@@ -77,6 +77,27 @@
         gap: 5%;
         margin-top: 3%;
         
+    }
+
+    h1
+    {
+        font-family: "Sora", sans-serif;
+        font-size: 1.4rem !important;
+        font-weight: 900 !important;
+    }
+
+    h2{
+        font-family: "Sora", sans-serif;
+        font-size: 1.25rem !important;
+        font-weight: 800 !important;
+
+    }
+
+    h3
+    {
+        font-family: "Sora", sans-serif;
+        font-size: 1rem !important;
+        font-weight: 800 !important;
     }
     
 }
