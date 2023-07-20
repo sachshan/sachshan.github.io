@@ -101,22 +101,22 @@ const App = ()=>{
 
                 <div className='contactIcon'>
                     <h3>Email</h3>
-                    <a href = "mailto: sachdeva.sh@northeastern.edu"> <AiOutlineMail size={"3em"} color='rgb(28, 38, 116)'/> </a>
+                    <a href = "mailto: sachdeva.sh@northeastern.edu"> <AiOutlineMail size={"3rem"} color='rgb(28, 38, 116)'/> </a>
                 </div>
 
                 <div className='contactIcon'>
                     <h3>LinkedIn</h3>
-                    <a href='https://www.linkedin.com/in/ssachdeva257/' target='blank'> <BsLinkedin size={"3em"} color='rgb(28, 38, 116)'/> </a>
+                    <a href='https://www.linkedin.com/in/ssachdeva257/' target='blank'> <BsLinkedin size={"3rem"} color='rgb(28, 38, 116)'/> </a>
                 </div>
 
                 <div className='contactIcon'>
                     <h3>Github</h3>
-                    <a href='https://github.com/sachshan' target='blank'> <BsGithub size={"3em"} color='rgb(28, 38, 116)'/> </a>
+                    <a href='https://github.com/sachshan' target='blank'> <BsGithub size={"3rem"} color='rgb(28, 38, 116)'/> </a>
                 </div>
 
                 <div className='contactIcon'>
                     <h3>Resume</h3>
-                    <a className='hLink' href='resume.pdf' target='blank'> <BsPersonCircle size={"3em"} color='rgb(28, 38, 116)'/> </a>
+                    <a className='hLink' href='resume.pdf' target='blank'> <BsPersonCircle size={"3rem"} color='rgb(28, 38, 116)'/> </a>
                 </div>
 
                 

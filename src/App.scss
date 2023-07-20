@@ -3,8 +3,12 @@
 
 :root{
     background-color: 	rgb(247, 243, 212);
+   
+    font-size: calc(15px + 0.2vw);
+    
     
 }
+
 
 .main > *
 {
@@ -35,7 +39,7 @@
     
     margin-right: auto;
     margin-left: 10px;
-    font-size: 2em;
+    font-size: 2rem;
     
     
 }
@@ -46,7 +50,7 @@
     cursor: pointer;
     color: rgb(28, 38, 116) !important;
     font-family: "Work Sans", sans-serif;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     margin-right: 2%;
     
 }
@@ -95,13 +99,13 @@
 h1
 {
     font-family: "Sora", sans-serif;
-    font-size: 4em !important;
+    font-size: 4rem !important;
     font-weight: 900 !important;
 }
 
 h2{
     font-family: "Sora", sans-serif;
-    font-size: 2em !important;
+    font-size: 2rem !important;
     font-weight: 800 !important;
 
 }
@@ -109,19 +113,19 @@ h2{
 h3
 {
     font-family: "Sora", sans-serif;
-    font-size: 1.5em !important;
+    font-size: 1.5rem !important;
     font-weight: 800 !important;
 }
 
 p   
 {
     margin-top: 3%;
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
 
 li {
-    font-size: 1.5em;
+    font-size: 1.5rem;
     list-style-type: circle;
  
 }
@@ -148,7 +152,7 @@ li {
 a
 {
     margin-top: 1%;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     background-color: rgb(1, 83, 172);
     color: white !important;
     border-radius: 1.25em;
